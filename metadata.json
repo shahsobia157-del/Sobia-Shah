@@ -1,0 +1,6 @@
+{
+  "name": "Aurevia Medical Center",
+  "description": "Premium luxury hospital website combining advanced medical expertise with compassionate healthcare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
